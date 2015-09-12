@@ -1,0 +1,27 @@
+{
+  "name": "var-dump",
+  "version": "1.0.0",
+  "description": "Small dumper for variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Liksu/var-dump.git"
+  },
+  "keywords": [
+    "dump",
+    "log"
+  ],
+  "author": "Liksu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liksu/var-dump/issues"
+  },
+  "homepage": "https://github.com/Liksu/var-dump#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "util": "^0.10.3"
+  }
+}
